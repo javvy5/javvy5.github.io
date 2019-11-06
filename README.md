@@ -1,3 +1,3 @@
 # Cuando Brillo
 
-Prueba de funcionamiento de host gratuito de GitHub
+Prueba de funcionamiento del host gratuito de GitHub
